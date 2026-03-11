@@ -1,16 +1,13 @@
-# gemini2_0_api_integration_in_app
+# 🤖 Gemini AI Chatbot
 
-Gemini 2.0 Integration
+A Flutter chatbot powered by Google Gemini API.
 
-## Getting Started
+## Features
+- AI powered conversations
+- Clean chat UI
+- Real-time responses
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- Flutter & Dart
+- Gemini API
+- google_generative_ai package
